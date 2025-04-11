@@ -33,7 +33,8 @@ python main.py
 
 ## 📸 Screenshot
 
-> *(You can add a screenshot of the game here)*
+> ![Pong Game Gif](https://github.com/user-attachments/assets/ab2c2491-3df5-47e9-b585-75cc240ee7b7)
+
 
 ---
 
