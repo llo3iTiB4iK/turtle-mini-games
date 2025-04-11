@@ -32,7 +32,8 @@ python main.py
 
 ## 📸 Screenshot
 
-> *(Optional: add a screenshot or GIF of the gameplay)*
+> ![Snake Game Gif](https://github.com/user-attachments/assets/786be8e4-1612-41d6-ac6f-326e0216442c)
+
 
 ---
 
