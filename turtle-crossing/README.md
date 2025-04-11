@@ -29,7 +29,8 @@ python main.py
 
 ## 📸 Screenshot
 
-> *(Optional: Insert a screenshot or gameplay GIF here)*
+> ![Turtle Crossing Gameplay (online-video-cutter com)](https://github.com/user-attachments/assets/5a22e5b1-8cae-4508-907a-b76adf2f2461)
+
 
 ---
 
